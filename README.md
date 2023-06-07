@@ -14,6 +14,8 @@
 
 ### 작품 회로도
 
+![raspberrypi](https://github.com/hyunju-mobile/orange/assets/131326632/ff9a36e8-4f53-45fd-b703-d839068fb168)
+
 ### 작품 사진
 
 ## 동작 시나리오 및 예시
